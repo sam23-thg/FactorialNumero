@@ -7,3 +7,5 @@ function factorial(n) {
 }
 
 console.log(factorial(5)); // 120
+console.log(factorial(55555555555));
+console.log("Hola");
