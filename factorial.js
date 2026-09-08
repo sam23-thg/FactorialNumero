@@ -7,4 +7,4 @@ function factorial(n) {
 }
 
 console.log(factorial(5)); // 120
-console.log(factorial(5)); // 120
+console.log(factorial(7900000));
