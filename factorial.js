@@ -1,11 +1,8 @@
 function factorial(n) {
-    if (n === 0 || n === 1) {
-        return 1;
-    }
+
 
     return n * factorial(n - 1);
 }
 
 console.log(factorial(5)); // 120
-console.log(factorial(55555555555));
-console.log("Hola");
+console.log(factorial(7900000));
